@@ -10,7 +10,7 @@ const blogData: Blog[] = [
     author: {
       name: "Samuyl Joshi",
       image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
+      designation: "Designer",
     },
     tags: ["creative"],
     publishDate: "2025",
